@@ -8,7 +8,7 @@ description: >
 baseurl: "" 
 url: "https://saavesh.github.io/"
 
-remote_theme: daattali/beautiful-jekyll
+theme: minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
