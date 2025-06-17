@@ -10,24 +10,27 @@ url: "https://saavesh.github.io/"
 
 theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
-# Social/contact links
-social-network-links:
-  github: Saavesh
-  linkedin: sherrysaavedra115
-  email: sherrysaavedra@gmail.com
+# # Social/contact links
+# social-network-links:
+#   github: Saavesh
+#   linkedin: sherrysaavedra115
+#   email: sherrysaavedra@gmail.com
 
-# navigation
-navbar-links:
-  About Me: "about"
-  Projects: "projects"
-  Weekly Updates: "blog"
-  Contact: "contact"
 
-# Options
+#   # Display the navigation sidebar at all times
+# sidebar:
+#   - title: About Me
+#     url: /about/
+#   - title: Projects
+#     url: /projects/
+#   - title: Weekly Updates
+#     url: /blog/
+#   - title: Contact
+#     url: /contact/
+
 excerpt_length: 50
 timezone: America/Los_Angeles
 
