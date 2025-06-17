@@ -1,7 +1,7 @@
 ---
+layout: page
 title: About Me
-layout: default
-permalink: /about.html
+permalink: /about/
 ---
 
 # About Me
