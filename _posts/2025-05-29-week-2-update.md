@@ -5,4 +5,4 @@ date: 2025-05-29
 categories: weekly
 ---
 
-T
+This week I started 
