@@ -1,0 +1,7 @@
+# Ignore these files - Do not track
+.DS_Store
+_site/
+*.log
+*.swp
+.sass-cache/
+.jekyll-cache/
