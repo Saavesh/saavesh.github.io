@@ -8,9 +8,9 @@ description: >
 baseurl: "" 
 url: "https://saavesh.github.io/"
 
-# Build settings
-theme: beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -20,18 +20,12 @@ social-network-links:
   linkedin: sherrysaavedra115
   email: sherrysaavedra@gmail.com
 
-# Sidebar navigation
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Projects
-    url: /projects/
-  - title: Weekly Updates
-    url: /blog/
-  - title: Contact
-    url: /contact/
+# navigation
+navbar-links:
+  About Me: "about"
+  Projects: "projects"
+  Weekly Updates: "blog"
+  Contact: "contact"
 
 # Options
 excerpt_length: 50
