@@ -1,8 +1,8 @@
 # Site settings
-title: Saavesh's Website 
+title: Saavesh's Website
 author: Sherry Saavedra
 email: sherrysaavedra@gmail.com
-description: >- 
+description: >
   My personal website built with Beautiful Jekyll to house my projects, blogs, and background.
 
 baseurl: "" 
@@ -14,26 +14,30 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Social / Contact icons
+# Social/contact links
 social-network-links:
   github: Saavesh
-  linkedin: SherrySaavedra115
-  email: SherrySaavedra@gmail.com
+  linkedin: sherrysaavedra115
+  email: sherrysaavedra@gmail.com
 
-# Navigation links in the navbar
-navbar-links:
-  About Me: "about"
-  Projects: "projects"
-  Weekly Updates: "blog"
-  Contact: "contact"
+# Sidebar navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Weekly Updates
+    url: /blog/
+  - title: Contact
+    url: /contact/
 
 # Options
 excerpt_length: 50
 timezone: America/Los_Angeles
 
-# Markdown settings
+# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
-
-
