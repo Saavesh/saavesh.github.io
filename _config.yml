@@ -2,34 +2,27 @@
 title: Saavesh's Website
 author: Sherry Saavedra
 email: sherrysaavedra@gmail.com
-description: >
-  My personal website built with Beautiful Jekyll to house my projects, blogs, and background.
+description: >  
+  Personal site to document my project updates, blog, and project development.
 
-baseurl: "" 
-url: "https://saavesh.github.io/"
+url: "https://saavesh.github.io"
+baseurl: ""
 
-theme: minima
+remote_theme: daattali/beautiful-jekyll
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# # Social/contact links
-# social-network-links:
-#   github: Saavesh
-#   linkedin: sherrysaavedra115
-#   email: sherrysaavedra@gmail.com
+social-network-links:
+  github: Saavesh
+  linkedin: sherrysaavedra115
+  email: sherrysaavedra@gmail.com
 
-
-#   # Display the navigation sidebar at all times
-# sidebar:
-#   - title: About Me
-#     url: /about/
-#   - title: Projects
-#     url: /projects/
-#   - title: Weekly Updates
-#     url: /blog/
-#   - title: Contact
-#     url: /contact/
+navbar-links:
+  About Me: "about"
+  Weekly Updates: "blog"
 
 excerpt_length: 50
 timezone: America/Los_Angeles
