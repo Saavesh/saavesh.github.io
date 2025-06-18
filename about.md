@@ -6,9 +6,9 @@ permalink: /about/
 
 # About Me
 
-Welcome! I'm glad you're here.
+A bit about myself.
 
-I'm a lifelong learner who enjoys taking a hands-on approach to problem solving. I find it rewarding to troubleshoot issues, understand how things work, and share that knowledge with others. Solving problems feels like piecing together a puzzle. It keeps me engaged, curious, and always learning.
+My name is Sherry. I'm a lifelong learner who enjoys taking a hands-on approach to problem solving. I find it rewarding to troubleshoot issues, understand how things work, and share that knowledge with others. Solving problems feels like piecing together a puzzle. It keeps me engaged, curious, and always learning.
 
 I spent eight years on active duty in the United States Marine Corps. That time helped shaped the way I view situations and work. I learned to adapt in unpredictable situations, stay resilient through challenges, and value the people around me. It taught me that everyone has something they’re good at. No matter who you are, you have something meaningful to contribute.
 
@@ -20,8 +20,5 @@ I care deeply about how technology is used and understood. I'm especially intere
 
 Thank you for visiting. I hope you come back to follow along as I continue learning and building.
 
-
-- Current focus: Ethical dashboards and AI risk communication  
-- Project updates posted weekly
 
   > “Everyone you meet knows something you don’t.” — Bill Nye
