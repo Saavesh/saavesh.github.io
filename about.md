@@ -16,9 +16,31 @@ After leaving the military, I earned my private pilot license with an instrument
 
 Right now, I'm finishing my degree in Computer Science while working at an electric vehicle company. I spend most of my time diagnosing rare and complex battery issues. I genuinely enjoy diving into tough problems, figuring out what’s going wrong, and finding a way forward. It's a challenge, but one my brain gets excited about.
 
-I care deeply about how technology is used and understood. I'm especially interested in the ethics of artificial intelligence and how we can make complex systems more transparent and approachable. I'm currently building tools that help people explore and understand information in ways that feel intuitive and empowering. Whether I’m writing code, troubleshooting an issue, organizing my space, or figuring out how to explain something clearly, I approach it all with the same mindset. I like when things make sense.
+I care about how technology is used and understood. I'm especially interested in the ethics of artificial intelligence and how we can make complex systems more transparent and approachable. I'm currently building tools that help people explore and understand information in ways that feel intuitive and empowering. Whether I’m writing code, troubleshooting an issue, organizing my space, or figuring out how to explain something clearly, I approach it all with the same mindset. I like when things make sense.
 
 Thank you for visiting. I hope you come back to follow along as I continue learning and building.
+
+
+
+---
+
+[Download my resume (PDF)](/resume.pdf)
+
+---
+
+## Education
+
+**B.S. in Computer Science**  
+University of University of Colorado - Boulder  
+Expected Graduation: August 2025  
+Relevant Coursework: Algorithms, Data Structures, Databases, Software Engineering, AI
+
+**B.A. in Psychology**  
+National University  
+Completed: May 2015  
+Focus Areas: Behavioral Science, Cognitive Psychology, Research Methods, Neuroscience
+
+---
 
 
   > “Everyone you meet knows something you don’t.” — Bill Nye
