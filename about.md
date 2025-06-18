@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-Welcome. I'm really glad you're here.
+Welcome! I'm glad you're here.
 
 I'm a lifelong learner who enjoys taking a hands-on approach to problem solving. I find it rewarding to troubleshoot issues, understand how things work, and share that knowledge with others. Solving problems feels like piecing together a puzzle. It keeps me engaged, curious, and always learning.
 
@@ -20,7 +20,8 @@ I care deeply about how technology is used and understood. I'm especially intere
 
 Thank you for visiting. I hope you come back to follow along as I continue learning and building.
 
-> “Everyone you meet knows something you don’t.” — Bill Nye
 
 - Current focus: Ethical dashboards and AI risk communication  
-- Project updates posted weekly    
+- Project updates posted weekly
+
+  > “Everyone you meet knows something you don’t.” — Bill Nye
