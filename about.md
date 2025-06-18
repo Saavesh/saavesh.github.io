@@ -24,7 +24,7 @@ Thank you for visiting. I hope you come back to follow along as I continue learn
 
 ---
 
-[Download my resume (PDF)](/resume.pdf)
+[Download my resume (PDF)](/assets/resume.pdf)
 
 ---
 
