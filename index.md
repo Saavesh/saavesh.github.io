@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: left-sidebar
 title: Welcome
 ---
 
