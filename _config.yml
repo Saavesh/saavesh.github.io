@@ -1,5 +1,5 @@
 # Site settings
-title: Saavesh's Website
+title: Sherry Saavedra - University of Colorado Boulder
 author: Sherry Saavedra
 email: sherrysaavedra@gmail.com
 description: >  
@@ -23,7 +23,6 @@ social-network-links:
 navbar-links:
   About Me: "about"
   Weekly Updates: "blog"
-  Contact: "mailto:sherrysaavedra@gmail.com"
 
 excerpt_length: 50
 timezone: America/Los_Angeles
