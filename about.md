@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+<!-- <img src="/assets/img/sherry.jpg" alt="Photo of Sherry Saavedra" style="max-width: 150px; border-radius: 50%; margin-bottom: 20px;" />-->
+
 # About Me
 
 A bit about myself.
@@ -39,6 +41,15 @@ Relevant Coursework: Algorithms, Data Structures, Databases, Software Engineerin
 National University  
 Completed: May 2015  
 Focus Areas: Behavioral Science, Cognitive Psychology, Research Methods, Neuroscience
+
+---
+
+
+### 📫 Contact Information
+
+- 📧 Email me at: [sherrysaavedra@gmail.com](mailto:sherrysaavedra@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sherrysaavedra115](https://www.linkedin.com/in/sherrysaavedra115)
+- 💻 GitHub: [github.com/Saavesh](https://github.com/Saavesh)
 
 ---
 
