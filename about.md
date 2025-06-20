@@ -4,7 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-<!-- <img src="/assets/img/sherry.jpg" alt="Photo of Sherry Saavedra" style="max-width: 150px; border-radius: 50%; margin-bottom: 20px;" />-->
+<div style="text-align: center;">
+  <img src="/assets/profile_img.jpg" alt="Photo of Sherry Saavedra"
+       style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+</div>
+
 
 # About Me
 
