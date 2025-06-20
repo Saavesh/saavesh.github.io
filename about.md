@@ -31,7 +31,7 @@ permalink: /about/
     I care about how technology is used and understood. I'm especially interested in the ethics of artificial intelligence and how we can make complex systems more transparent and approachable. I'm currently building tools that help people explore and understand information in ways that feel intuitive and empowering. Whether I’m writing code, troubleshooting an issue, organizing my space, or figuring out how to explain something clearly, I approach it all with the same mindset. I like when things make sense.      
     </p>
     <p>
-      Thanks for visiting. I hope you ome back to follow along as I continue learning and building. :)
+      Thanks for visiting. I hope you ome back to follow along as I continue learning and building.
     </p>
   </div>
   
