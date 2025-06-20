@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
+<div class="page-content">
 <!-- 2-column layout using inline styles -->
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-bottom: 40px;">
 
@@ -34,7 +34,8 @@ permalink: /about/
       Thanks for visiting. I hope you ome back to follow along as I continue learning and building. :)
     </p>
   </div>
-
+  
+</div>
 </div>
 
 ***
