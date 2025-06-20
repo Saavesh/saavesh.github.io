@@ -9,7 +9,6 @@ url: "https://saavesh.github.io"
 baseurl: ""
 
 remote_theme: daattali/beautiful-jekyll
-custom-css: assets/css/custom-styles.css
 
 plugins:
   - jekyll-feed
