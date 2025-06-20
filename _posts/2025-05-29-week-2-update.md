@@ -18,7 +18,7 @@ This week, I plan to submit my project proposal and participate more actively on
 
 ---
 
-## The roadblocks I have been experiencing
+## The roadblocks I have been encountering
 
 Mostly just adjusting to Canvas and managing my time. It’s been a bit confusing figuring out where to find updates and due dates since I’m more familiar with Moodle.
 
