@@ -14,8 +14,7 @@ permalink: /about/
   </div>
 
   <!-- RIGHT: Text -->
-  <div style="flex: 1; min-width: 250px;">
-    <h2>About Me</h2>
+  <div style="flex: 1; min-width: 250px; background-color: #f6f6f6; padding: 20px; border-radius: 8px;">
     <p>
       My name is Sherry. I'm a lifelong learner who enjoys taking a hands-on approach to problem solving. I find it rewarding to troubleshoot issues, understand how things work, and share that knowledge with others. Solving problems feels like piecing together a puzzle. It keeps me engaged, curious, and always learning.
     </p>
