@@ -19,12 +19,12 @@ This week I plan to clean up the dataset and refine how the information is group
 
 ---
 
-## What were the roadblocks?
+## The roadblocks I have been encountering
 
 Streamlit is still new to me, so I’ve had to look up how to do even basic things, like customizing layout and handling user input. Also, the incident data is messy in parts, so it’ll take some time to decide which fields to keep and how to make the info useful without overwhelming the viewer. While I was working on my website, getting Jekyll to cooperate with custom styling has been slightly frustrating, but it hasn't been too bad. I’ve been experimenting with themes and CSS, but I’m still figuring it out.
 
 ---
 
-## Reflection on the process I used last week, and how I plan to make the process work better:
+## Reflection on the process used last week and my plan to improve the process
 
 Breaking the work into small steps helped again this week, but it can still be challenging to manage the workload at times. I focused on just getting one or two things working each session instead of trying to make it perfect. I also kept a running list of bugs or ideas to return to later, which made it easier to stay on track. Cleaning up my virtual environments early on also helped reduce confusion between projects. I think next week I want to spend a little more time sketching out what I want the dashboard to feel like before adding more features.
