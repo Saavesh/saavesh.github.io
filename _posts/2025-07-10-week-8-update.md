@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Week 7 Update"
-date: 2025-07-03
+title: "Week 8 Update"
+date: 2025-07-10
 categories: weekly
-permalink: /blog/week-7/
+permalink: /blog/week-8/
 ---
 ## What I did last week:
 
