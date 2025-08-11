@@ -13,6 +13,9 @@ Thanks for stopping by! Hope you come back again soon.
 
 ### Read the Weekly Updates
 
+- [Week 8 – July 10, 2025](/blog/week-7/)
+- [Week 7 – July 3, 2025](/blog/week-7/)
+- [Week 6 – June 26, 2025](/blog/week-6/)
 - [Week 5 – June 19, 2025](/blog/week-5/)
 - [Week 4 – June 12, 2025](/blog/week-4/)
 - [Week 3 – June 5, 2025](/blog/week-3/)
