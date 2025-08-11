@@ -2,7 +2,7 @@
 title: Sherry Saavedra - University of Colorado Boulder
 author: Sherry Saavedra
 email: sherrysaavedra@gmail.com
-description: >  
+description: >
   Personal site to document my project updates, blog, and project development.
 
 url: "https://saavesh.github.io"
@@ -21,6 +21,7 @@ social-network-links:
   email: sherrysaavedra@gmail.com
 
 navbar-links:
+  Home: "index"
   About Me: "about"
   Weekly Updates: "blog"
 
