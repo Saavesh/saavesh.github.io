@@ -21,7 +21,7 @@ social-network-links:
   email: sherrysaavedra@gmail.com
 
 navbar-links:
-  Home: "index"
+  Home: "/"
   About Me: "about"
   Weekly Updates: "blog"
 

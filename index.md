@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /index/
+permalink: /
 ---
 
 Welcome, I'm glad you're here! My name is Sherry and this is where I share weekly updates on what I’m building, learning, and exploring. 
