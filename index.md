@@ -11,12 +11,9 @@ If you’re interested in the person behind the projects, feel free to check out
 
 Thanks for stopping by! Hope you come back again soon.
 
-### Read the Weekly Updates
+### Read the Latest Weekly Update
 
-- [Week 8 – July 10, 2025](/blog/week-7/)
-- [Week 7 – July 3, 2025](/blog/week-7/)
-- [Week 6 – June 26, 2025](/blog/week-6/)
-- [Week 5 – June 19, 2025](/blog/week-5/)
-- [Week 4 – June 12, 2025](/blog/week-4/)
-- [Week 3 – June 5, 2025](/blog/week-3/)
-- [Week 2 – May 29, 2025](/blog/week-2/)
+{% assign latest_post = site.posts.first %}
+- [{{ latest_post.title }}]({{ latest_post.url | relative_url }})
+
+Or see [all weekly updates here](/blog/)
